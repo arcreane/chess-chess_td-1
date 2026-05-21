@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Projet I1 — Jeu d'échecs Python
 
 Projet d'échecs en Python orienté objet, conforme au cahier des charges :
@@ -61,3 +62,6 @@ Messages de commit :
 - `feat: implement rook movement`
 - `fix: prevent moving onto own piece`
 - `test: add pawn movement tests`
+=======
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/ChwpCt9g)
+>>>>>>> c56da763e11cb638d913691c3aa893c846366f7d

@@ -54,4 +54,5 @@ if __name__ == "__main__":
     print(f"Position créée : {p1}")  # attendu : e4
     p2 = Position.from_string("a1")
     print(f"Position créée : {p2}")  # attendu : a1
+
     print("Tests Position OK !")

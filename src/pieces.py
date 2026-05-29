@@ -156,7 +156,7 @@ PIECE_CLASSES = {
 
 
 if __name__ == "__main__":
-    from .board import Board
+    from board import Board
 
     board = Board()
     pawn = board.getPiece(Position.from_string("e2"))

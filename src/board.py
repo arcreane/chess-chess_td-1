@@ -1,6 +1,5 @@
 """Module contenant la classe Board."""
 
-from __future__ import annotations
 from .position import Position
 from .pieces import WHITE, BLACK, King, Queen, Bishop, Knight, Rook, Pawn, PIECE_CLASSES
 
